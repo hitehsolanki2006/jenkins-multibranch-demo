@@ -59,7 +59,7 @@ Make sure the following are installed and ready before starting:
 ## 🔗 Step 1 — Fork or Clone This Repository
 
 ```bash
-git clone https://github.com/h-innoveda/jenkins-multibranch-demo.git
+git clone https://github.com/hitehsolanki2006/jenkins-multibranch-demo.git
 cd jenkins-multibranch-demo
 ```
 
